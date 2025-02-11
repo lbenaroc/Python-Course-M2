@@ -25,12 +25,13 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+private/
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+noshow/
 
 # Installer logs
 pip-log.txt
@@ -169,3 +170,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+Lab1.ipynb
