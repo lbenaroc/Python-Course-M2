@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Python Programming",
+        "author": "John Doe",
+        "isbn": "978-1234567890",
+        "available": true
+    },
+    {
+        "title": "Data Science",
+        "author": "Jane Smith",
+        "isbn": "978-0987654321",
+        "available": true
+    }
+]
